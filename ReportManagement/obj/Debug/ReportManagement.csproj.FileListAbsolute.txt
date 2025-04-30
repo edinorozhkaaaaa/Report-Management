@@ -1,0 +1,6 @@
+C:\Users\edino\source\repos\ReportManagement\bin\Debug\ReportManagement.dll
+C:\Users\edino\source\repos\ReportManagement\bin\Debug\ReportManagement.pdb
+C:\Users\edino\source\repos\ReportManagement\obj\Debug\ReportManagement.csproj.AssemblyReference.cache
+C:\Users\edino\source\repos\ReportManagement\obj\Debug\ReportManagement.csproj.CoreCompileInputs.cache
+C:\Users\edino\source\repos\ReportManagement\obj\Debug\ReportManagement.dll
+C:\Users\edino\source\repos\ReportManagement\obj\Debug\ReportManagement.pdb
